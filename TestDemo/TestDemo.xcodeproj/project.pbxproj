@@ -546,7 +546,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 511C4D417274CDE3A1887695 /* Pods-TestDemo.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W84L9WZ75M;
@@ -567,7 +567,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E9AEE2A086411087A3C07E79 /* Pods-TestDemo.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W84L9WZ75M;
